@@ -1,7 +1,7 @@
 if not script_key then print("script_key was not found") return end
 
 local script_ids = {
-    [16205713724] = "ac047e097e274932fb36f03b37fe0267",
+    [45353] = "ac047e097e274932fb36f03b37fe0267",
 }
 
 if not script_id then
