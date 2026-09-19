@@ -1,10 +1,12 @@
+Yurkt — 9:49 PM
 local script_ids = {
     [585595353122] = "ac047e097e274932fb36f03b37fe0267",
 }
 
 local usingId
 local gameId = game.GameId
-
+print(gameId)
+print(script_ids[gameId])
 
 if script_id then
     usingId = script_id
@@ -47,4 +49,4 @@ if not success then
     return LocalPlayer:Kick(
         "[Mist Hub] Failed to load script. Error message: " .. tostring(response)
     )
-end 
+end
