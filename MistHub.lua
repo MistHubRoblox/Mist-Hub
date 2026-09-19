@@ -3,7 +3,7 @@ local script_ids = {
 }
 
 local usingId
-local gameId = game.GameId
+local gameId = game.gameId
 print(gameId)
 print(script_ids[gameId])
 
