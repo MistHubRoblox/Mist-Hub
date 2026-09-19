@@ -1,4 +1,3 @@
-Yurkt — 9:49 PM
 local script_ids = {
     [585595353122] = "ac047e097e274932fb36f03b37fe0267",
 }
