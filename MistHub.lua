@@ -1,5 +1,5 @@
 local script_ids = {
-    [585595353122] = "ac047e097e274932fb36f03b37fe0267",
+    [5595353122] = "ac047e097e274932fb36f03b37fe0267",
 }
 
 local usingId
